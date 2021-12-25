@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @SawJoel
-- 👀 I’m interested in machine learning and web development
-- 💞️ I’m looking to collaborate with anyone working on web development and machine learning projects
 
 
 <!---
